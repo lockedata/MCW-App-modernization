@@ -1,6 +1,9 @@
 # App modernization
 
-[Download Cloud Workshop](https://github.com/Microsoft/MCW-App-modernization/archive/master.zip)
+- [Download Cloud Workshop](https://github.com/Microsoft/MCW-App-modernization/archive/master.zip)
+- [Whiteboard design students guide](Whiteboard%20design%20session/WDS%20student%20guide%20-%20App%20modernization)
+- [Hands-on lab setup guide](Hands-on%20lab/Before%20the%20HOL%20-%20App%20modernization)
+- [Hands-on lab students guide](Hands-on%20lab/HOL%20step-by-step%20-%20App%20modernization)
 
 Contoso, Ltd. is a new company providing a full range of long-term insurance services to help people who are underinsured. Struggling to cope with rapid growth, the company founders are looking for improved technological capabilities, including automated document forwarding from brokers, secure access for brokers to Contoso, Ltd., access to policy information, and ready policy retrieval for a dispersed workforce.
 
